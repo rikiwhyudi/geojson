@@ -1,0 +1,825 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GUNUNG SITOLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.714, 1.285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TEMBILHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.178, -0.327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SIBOLGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.784, 1.745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUNGAI PAKNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.164, 1.341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PEKANBARU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.447, 0.505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANGKAL SUSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.151, 4.093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BELAWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.681, 3.791]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUALA CINAKU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.825, 0.052]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG PINANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.475, 0.916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BATAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.032, 1.054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LHOKSEUMAWE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.135, 5.176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MALAHAYATI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.422, 5.568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DUMAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.447, 1.67]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUALA TANJUNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.704, 3.298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG BALAI KARIMUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.414, 0.999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BENGKALIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.102, 1.464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG BALAI ASAHAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.799, 2.955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SELAT PANJANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.709, 0.814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANJANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.285, -5.437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BENGKULU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.261, -3.805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANTEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.155, -6.108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIREBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.562, -6.733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TELUK BAYUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.354, -0.991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PONTIANAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.324, -0.026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAMBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.606, -1.611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG PRIOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.877, -6.109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG PANDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.647, -2.74]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANGKAL BALAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.113, -2.062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SUNDA KELAPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.815, -6.128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PALEMBANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.757, -2.991]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG PERAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.729, -7.202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG EMAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.407, -6.969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG WANGI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.398, -8.163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BANJARMASIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.59, -3.316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG INTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.053, -7.701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BENOYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.228, -8.761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOTABARU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.208, -3.254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WAINGAPU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.264, -9.658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAUMERE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.215, -8.625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ENDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.65, -8.847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TEGAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.141, -6.877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MEKARPUTIH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.039, -6.745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KUMAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.75, -2.712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAMPIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.915, -2.531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BUNATI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.143, -4.331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SATUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.656, -3.818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BATULICIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.012, -3.421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALABAHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.512, -8.22]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LABUAN BAJO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.885, -8.497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TENAU KUPANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.551, -10.158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LEMBAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.086, -8.706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BIMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.729, -8.468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CELUKAN BAWANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.733, -8.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BADAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.29, -8.54]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PULANG PISAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.41, -2.96]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PROBOLINGGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.216, -7.75]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KALIANGET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.882, -7.025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SAMARINDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.154, -0.493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMAMAPARE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.885, -4.845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KENDARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.597, -3.987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PANTOLOAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.866, -0.718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BITUNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.127, 1.442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GORONTALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.059, 0.54]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAYAPURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.705, -2.533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TOLITOLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.835, 1.054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANOKWARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.053, -0.867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TERNATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.388, 0.796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANAH GROGOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.037, -1.895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LUWUK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.79, -0.938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TARAKAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.607, 3.327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NUNUKAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.669, 4.225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MERAUKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.395, -8.47]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AMBON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.182, -3.703]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SORONG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.25, -0.87]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PAREPARE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.638, -4.015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FAKFAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.327, -2.915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MANADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.846, 1.474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BIAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.096, -0.916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BONTANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.494, 0.134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BALIKPAPAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.892, -1.266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TANJUNG REDEB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.494, 2.051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MAKASSAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.432, -5.148]
+      }
+    }
+  ]
+}
